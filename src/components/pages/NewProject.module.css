@@ -1,0 +1,12 @@
+.newproject_conatainer{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.newproject_conatainer h1{
+    margin-bottom: 0.5em;
+}
+.newproject_conatainer p{
+    color: #7b7b7b;
+}
